@@ -1,6 +1,5 @@
 package fr.sonosia.homes;
 
-import fr.sonosia.homes.commands.HomeCommand;
 import lombok.Getter;
 import lombok.SneakyThrows;
 import org.bukkit.Bukkit;
