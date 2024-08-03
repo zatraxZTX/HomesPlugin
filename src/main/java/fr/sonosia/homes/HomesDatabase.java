@@ -1,4 +1,4 @@
-package fr.sonosia.survie;
+package fr.sonosia.homes;
 
 public class HomesDatabase {
 }

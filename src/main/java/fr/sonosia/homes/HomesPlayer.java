@@ -1,4 +1,4 @@
-package fr.sonosia.survie;
+package fr.sonosia.homes;
 
 import lombok.Getter;
 import lombok.Setter;

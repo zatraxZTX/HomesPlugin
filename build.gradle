@@ -7,9 +7,9 @@ plugins {
     id 'com.github.johnrengelman.shadow' version '7.1.2'
 }
 
-group = 'fr.sonosia.survie'
+group = 'fr.sonosia.homes'
 version = 'beta'
-description = 'SurvieMain'
+description = 'HomesPlugin'
 java.sourceCompatibility = JavaVersion.VERSION_17
 
 repositories {
