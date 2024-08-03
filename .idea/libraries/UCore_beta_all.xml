@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UCore-beta-all">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../UCore/build/libs/UCore-beta-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

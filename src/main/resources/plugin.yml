@@ -1,0 +1,10 @@
+name: Survie
+version: beta
+description: Main Survie Plugin for Sonosia
+author: Zatrax_
+main: fr.sonosia.survie.HomesCore
+api-version: 1.20
+commands:
+  home:
+  homes:
+permissions: {}
